@@ -3,7 +3,7 @@ import json
 print("Bonjour et bienvenue dans se RPG")
 
 nom = input("Entrer votre nom: ")
-
+v
 
 while True:
     print("\nOption:")
